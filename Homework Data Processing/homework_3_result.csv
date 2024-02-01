@@ -1,0 +1,1259 @@
+,id,gender,has_car_and_property,income_type,education_type,family_status,housing_type,occupation_type,amount_income_total
+8,5169560,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,90000.0
+23,6297619,Male,True,Commercial associate,Higher education,Single / not married,Rented apartment,High skill tech staff,360000.0
+169,5548993,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,405000.0
+276,5344333,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,135000.0
+353,5499766,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Core staff,225000.0
+382,6249107,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,270000.0
+485,6782846,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,225000.0
+487,5022329,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,256500.0
+542,5952003,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,202500.0
+831,6424552,Female,True,Working,Academic degree,Married,House / apartment,Core staff,157500.0
+921,6107609,Female,True,Working,Higher education,Married,House / apartment,Core staff,360000.0
+1071,6317841,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,243000.0
+1181,5010975,Male,True,Working,Higher education,Married,House / apartment,Sales staff,126000.0
+1327,6636546,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,202500.0
+1435,6469264,Female,True,Working,Higher education,Married,House / apartment,Core staff,315000.0
+1635,6803003,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,112500.0
+1652,5833246,Female,True,Working,Higher education,Married,Office apartment,Core staff,207000.0
+1665,6575352,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,225000.0
+1754,6087087,Female,True,Commercial associate,Higher education,Married,With parents,Core staff,202500.0
+1791,6519196,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,90000.0
+1809,6578057,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Security staff,112500.0
+1874,6087931,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,360000.0
+1934,5056007,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,202500.0
+1939,6486143,Male,True,Working,Higher education,Single / not married,House / apartment,Medicine staff,270000.0
+2134,5743393,Male,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+2273,6591224,Female,True,Commercial associate,Higher education,Separated,House / apartment,Core staff,360000.0
+2724,6144043,Female,True,Commercial associate,Higher education,Separated,House / apartment,High skill tech staff,135000.0
+2858,6396980,Female,True,Working,Higher education,Married,House / apartment,Medicine staff,157500.0
+2940,6737535,Female,True,State servant,Higher education,Married,House / apartment,Core staff,225000.0
+3007,6624648,Male,True,Working,Higher education,Single / not married,House / apartment,Sales staff,202500.0
+3012,5702259,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,225000.0
+3313,5626688,Female,True,Working,Secondary / secondary special,Married,House / apartment,Waiters/barmen staff,67500.0
+3393,6048367,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,171000.0
+3504,6363309,Female,True,Working,Higher education,Single / not married,House / apartment,HR staff,135000.0
+3527,5580957,Male,True,Working,Higher education,Single / not married,House / apartment,IT staff,166500.0
+3709,6079799,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,292500.0
+4052,6098521,Female,True,State servant,Higher education,Married,House / apartment,Core staff,157500.0
+4130,6053518,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,157500.0
+4172,7536655,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Sales staff,292500.0
+4262,6723155,Male,True,Working,Higher education,Married,Rented apartment,High skill tech staff,135000.0
+4298,6586789,Male,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,405000.0
+4402,6661345,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,157500.0
+4452,6139996,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+4587,6836556,Female,True,Working,Incomplete higher,Married,House / apartment,Sales staff,270000.0
+4589,5932073,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,117000.0
+4893,6272076,Male,True,State servant,Higher education,Married,House / apartment,Core staff,157500.0
+4949,5354235,Female,True,State servant,Higher education,Single / not married,House / apartment,High skill tech staff,135000.0
+5014,6590797,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,270000.0
+5048,6367452,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,337500.0
+5102,6604905,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,135000.0
+5280,6471954,Male,True,Commercial associate,Incomplete higher,Married,House / apartment,Core staff,157500.0
+5349,7212533,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,High skill tech staff,382500.0
+5465,5883153,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,180000.0
+5522,6472423,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,157500.0
+5728,6507948,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,225000.0
+5906,6630459,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,247500.0
+5938,5772290,Female,True,Commercial associate,Higher education,Single / not married,House / apartment,Core staff,292500.0
+5965,5279185,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,288000.0
+6024,5317879,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,360000.0
+6038,6292308,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,202500.0
+6112,6472786,Male,True,Working,Higher education,Married,House / apartment,Core staff,247500.0
+6270,6048369,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,171000.0
+6465,5743554,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,112500.0
+6520,6077504,Male,True,State servant,Higher education,Married,House / apartment,Core staff,162000.0
+6603,5927603,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,382500.0
+6642,5113852,Male,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,90000.0
+6685,5680634,Female,True,Working,Secondary / secondary special,Married,House / apartment,Cooking staff,112500.0
+6817,6291275,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,225000.0
+6836,6273453,Female,True,Working,Secondary / secondary special,Married,Municipal apartment,Sales staff,90000.0
+7013,5702396,Female,True,Working,Secondary / secondary special,Separated,House / apartment,Private service staff,90000.0
+7138,5861067,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Medicine staff,540000.0
+7142,5791702,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,459000.0
+7200,5541407,Male,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,270000.0
+7222,5529424,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,450000.0
+7238,7106721,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,247500.0
+7240,6234850,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,301500.0
+7272,5598595,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,202500.0
+7439,6223662,Male,True,Working,Higher education,Civil marriage,House / apartment,High skill tech staff,202500.0
+7510,6778697,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,382500.0
+7827,5548354,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,382500.0
+7903,6138708,Female,True,State servant,Incomplete higher,Married,House / apartment,Core staff,405000.0
+7969,5541409,Male,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,270000.0
+8138,5022420,Female,True,Working,Higher education,Married,With parents,High skill tech staff,157500.0
+8156,6133263,Female,True,Commercial associate,Secondary / secondary special,Married,With parents,Core staff,202500.0
+8250,6209587,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+8332,6836343,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,High skill tech staff,360000.0
+8462,6611440,Female,True,Working,Higher education,Single / not married,House / apartment,Core staff,135000.0
+8466,6292204,Female,True,Commercial associate,Incomplete higher,Civil marriage,House / apartment,High skill tech staff,180000.0
+8667,5061701,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,High skill tech staff,135000.0
+8857,6163133,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,180000.0
+8888,5943129,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Cooking staff,112500.0
+8932,5090098,Male,True,Working,Higher education,Single / not married,House / apartment,High skill tech staff,256500.0
+8977,5833240,Female,True,Working,Higher education,Married,Office apartment,Core staff,207000.0
+9022,5235671,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Sales staff,405000.0
+9130,6800938,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,135000.0
+9312,5833688,Female,True,Working,Higher education,Married,House / apartment,Core staff,360000.0
+9336,5791961,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,292500.0
+9346,5823881,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,225000.0
+9384,5022330,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,256500.0
+9403,6472419,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,157500.0
+9527,6484819,Male,True,Working,Higher education,Married,House / apartment,Sales staff,315000.0
+9593,5010088,Female,True,Working,Incomplete higher,Single / not married,With parents,Sales staff,112500.0
+9631,5062683,Male,True,State servant,Secondary / secondary special,Married,Municipal apartment,High skill tech staff,247500.0
+9654,6372883,Male,True,Commercial associate,Higher education,Civil marriage,House / apartment,High skill tech staff,315000.0
+9675,5918250,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+9899,6653004,Female,True,State servant,Higher education,Married,With parents,Core staff,225000.0
+9950,5957803,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,247500.0
+9982,6240840,Female,True,Commercial associate,Higher education,Married,House / apartment,Private service staff,292500.0
+10049,5346005,Male,True,Working,Higher education,Single / not married,House / apartment,High skill tech staff,180000.0
+10184,5627632,Female,True,Commercial associate,Higher education,Single / not married,House / apartment,Core staff,180000.0
+10189,5731057,Female,True,Working,Higher education,Married,House / apartment,Core staff,315000.0
+10302,6396986,Female,True,Working,Higher education,Married,House / apartment,Medicine staff,157500.0
+10392,5028551,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,315000.0
+10400,5113407,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,450000.0
+10482,5884021,Female,True,State servant,Higher education,Married,House / apartment,IT staff,143100.0
+10637,6158869,Female,True,Working,Higher education,Married,With parents,Core staff,270000.0
+10642,5062542,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Medicine staff,135000.0
+10755,6046455,Female,True,Working,Higher education,Married,House / apartment,Core staff,112500.0
+10835,6021561,Female,True,Working,Higher education,Married,House / apartment,Medicine staff,360000.0
+10937,5317853,Female,True,State servant,Higher education,Married,House / apartment,Core staff,234000.0
+11080,6781858,Female,True,Working,Secondary / secondary special,Married,With parents,Security staff,90000.0
+11083,5702075,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Core staff,211500.0
+11104,5166835,Female,True,Working,Higher education,Married,House / apartment,Core staff,117000.0
+11156,5062403,Male,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,High skill tech staff,202500.0
+11223,7416083,Male,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,189000.0
+11262,5056006,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,202500.0
+11274,6264737,Female,True,Commercial associate,Secondary / secondary special,Married,With parents,Core staff,202500.0
+11369,5707217,Female,True,Working,Secondary / secondary special,Married,House / apartment,Cooking staff,121500.0
+11402,6724213,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,202500.0
+11457,5788759,Female,True,Commercial associate,Higher education,Married,With parents,Sales staff,270000.0
+11731,5062687,Male,True,State servant,Secondary / secondary special,Married,Municipal apartment,High skill tech staff,247500.0
+11791,5760612,Female,True,Working,Higher education,Married,House / apartment,Sales staff,630000.0
+11795,5010366,Female,True,Working,Higher education,Separated,House / apartment,Medicine staff,157500.0
+11905,6630572,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,202500.0
+11932,5905303,Male,True,Working,Incomplete higher,Married,House / apartment,High skill tech staff,225000.0
+11941,6146943,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,270000.0
+12019,5892583,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,189000.0
+12249,5627746,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,405000.0
+12389,5738584,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,315000.0
+12445,6803000,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,112500.0
+12496,6693446,Female,True,Working,Higher education,Single / not married,House / apartment,Core staff,135000.0
+12497,5853839,Male,True,Commercial associate,Incomplete higher,Married,House / apartment,Core staff,256500.0
+12590,5995826,Female,True,State servant,Higher education,Married,House / apartment,HR staff,112500.0
+12627,5416192,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,382500.0
+12726,5957441,Male,True,Commercial associate,Secondary / secondary special,Single / not married,Rented apartment,Core staff,112500.0
+12793,6736708,Female,True,Commercial associate,Secondary / secondary special,Single / not married,With parents,Cooking staff,180000.0
+12796,5929924,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,418500.0
+12821,5680434,Female,True,Working,Higher education,Married,House / apartment,Core staff,135000.0
+13025,5742343,Male,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Core staff,90000.0
+13148,5113405,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,450000.0
+13232,5169175,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,67500.0
+13248,5091162,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,256500.0
+13276,6563767,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,180000.0
+13346,6357419,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,108000.0
+13420,5883440,Female,True,Working,Secondary / secondary special,Civil marriage,Rented apartment,Medicine staff,112500.0
+13476,6698075,Female,True,Working,Higher education,Married,House / apartment,Sales staff,171000.0
+13477,5627753,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,405000.0
+13486,6053719,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,270000.0
+13495,6317835,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,243000.0
+13571,5928870,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,135000.0
+13698,6209590,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+13850,5189648,Male,True,Working,Higher education,Single / not married,House / apartment,Sales staff,112500.0
+13861,6048430,Male,True,State servant,Secondary / secondary special,Married,With parents,Security staff,157500.0
+13891,6772902,Female,True,State servant,Secondary / secondary special,Civil marriage,Office apartment,Medicine staff,202500.0
+13999,6415311,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,193500.0
+14008,6014207,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Medicine staff,225000.0
+14054,5011010,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,157500.0
+14208,6132915,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,292500.0
+14223,6778691,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,382500.0
+14347,6591948,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,135000.0
+14733,6139319,Female,True,Working,Incomplete higher,Civil marriage,House / apartment,Sales staff,202500.0
+14776,6396465,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,270000.0
+14868,6098727,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,180000.0
+14891,5125874,Male,True,Commercial associate,Higher education,Separated,House / apartment,High skill tech staff,270000.0
+14988,5957802,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,247500.0
+15035,6033487,Male,True,Working,Higher education,Civil marriage,House / apartment,High skill tech staff,270000.0
+15125,6723049,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+15176,6498305,Female,True,Working,Higher education,Widow,House / apartment,High skill tech staff,180000.0
+15437,5548410,Male,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,270000.0
+15748,6779548,Male,True,State servant,Secondary / secondary special,Married,House / apartment,Security staff,94500.0
+15824,6064687,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,202500.0
+15884,6079803,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,292500.0
+15985,6520572,Female,True,Working,Higher education,Married,House / apartment,Sales staff,225000.0
+16153,5907602,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,117000.0
+16164,5680135,Female,True,Working,Higher education,Married,With parents,Core staff,112500.0
+16486,6528488,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,180000.0
+16565,6621119,Female,True,State servant,Higher education,Married,House / apartment,Core staff,225000.0
+16571,5683585,Female,True,Working,Higher education,Married,House / apartment,Sales staff,112500.0
+16988,5236034,Male,True,Working,Higher education,Single / not married,House / apartment,High skill tech staff,256500.0
+17008,6091284,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,315000.0
+17066,6042444,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,148500.0
+17112,6259081,Female,True,Working,Higher education,Married,House / apartment,Sales staff,90000.0
+17173,5919397,Female,True,Working,Higher education,Married,House / apartment,Core staff,135000.0
+17211,6248504,Male,True,Commercial associate,Higher education,Civil marriage,House / apartment,Sales staff,247500.0
+17221,6639517,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,292500.0
+17285,5948778,Female,True,Commercial associate,Incomplete higher,Married,House / apartment,Private service staff,112500.0
+17344,5945665,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,180000.0
+17388,5416532,Male,True,State servant,Higher education,Married,House / apartment,Core staff,585000.0
+17740,6233295,Female,True,Working,Secondary / secondary special,Married,House / apartment,Cleaning staff,90000.0
+17954,5796831,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+18379,6602366,Female,True,Working,Higher education,Married,House / apartment,Sales staff,270000.0
+18391,5905942,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+18562,6560491,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Core staff,126000.0
+18771,5029458,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,112500.0
+18900,5939676,Male,True,Working,Higher education,Married,House / apartment,Core staff,427500.0
+18915,6135033,Female,True,Working,Higher education,Married,House / apartment,Core staff,112500.0
+18993,6722524,Male,True,Working,Incomplete higher,Married,House / apartment,High skill tech staff,247500.0
+19050,6737534,Female,True,State servant,Higher education,Married,House / apartment,Core staff,225000.0
+19099,6472599,Female,True,State servant,Higher education,Married,House / apartment,Core staff,360000.0
+19408,6636545,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,202500.0
+19661,5883152,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,180000.0
+19662,6486331,Female,True,Working,Higher education,Married,House / apartment,Core staff,171000.0
+19702,5776473,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+20039,6539425,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Core staff,126000.0
+20216,6519198,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,90000.0
+20242,5707239,Female,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,135000.0
+20430,5336420,Male,True,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,202500.0
+20741,6798776,Male,True,Working,Secondary / secondary special,Married,Municipal apartment,Security staff,180000.0
+20784,6115726,Male,True,Working,Incomplete higher,Single / not married,House / apartment,Sales staff,225000.0
+20937,5822980,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,315000.0
+21037,7833708,Female,True,Working,Higher education,Married,House / apartment,Core staff,360000.0
+21084,6842584,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,202500.0
+21120,5788664,Female,True,Working,Higher education,Married,House / apartment,Core staff,225000.0
+21455,5068385,Female,True,Working,Higher education,Separated,House / apartment,Sales staff,270000.0
+21579,5113409,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,450000.0
+21685,5021296,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,180000.0
+21847,5598598,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,202500.0
+22089,6722540,Male,True,Working,Incomplete higher,Married,House / apartment,High skill tech staff,247500.0
+22090,5091160,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,256500.0
+22105,5224684,Male,True,State servant,Higher education,Married,House / apartment,Core staff,157500.0
+22119,6087626,Male,True,Commercial associate,Higher education,Separated,House / apartment,Core staff,450000.0
+22198,6367732,Female,True,Commercial associate,Higher education,Married,House / apartment,HR staff,180000.0
+22369,6741687,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+22414,5317994,Female,True,Working,Higher education,Married,With parents,Core staff,135000.0
+22558,6022368,Female,True,Working,Higher education,Married,House / apartment,Sales staff,225000.0
+22758,5934541,Male,True,State servant,Higher education,Married,House / apartment,Security staff,180000.0
+22859,5317852,Female,True,State servant,Higher education,Married,House / apartment,Core staff,234000.0
+22882,5759658,Female,True,Working,Secondary / secondary special,Separated,House / apartment,Sales staff,225000.0
+22952,6639698,Female,True,Working,Higher education,Civil marriage,House / apartment,Core staff,270000.0
+23090,6311931,Male,True,Working,Higher education,Married,House / apartment,IT staff,126000.0
+23106,6799141,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,Security staff,292500.0
+23171,6087932,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,360000.0
+23239,5166823,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,225000.0
+23245,5549147,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,Core staff,292500.0
+23564,5872564,Female,True,State servant,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,148500.0
+23627,6591143,Female,True,Working,Secondary / secondary special,Married,House / apartment,Waiters/barmen staff,135000.0
+23632,5599155,Male,True,State servant,Incomplete higher,Married,Rented apartment,High skill tech staff,243000.0
+23665,6070392,Female,True,Working,Higher education,Married,House / apartment,Core staff,315000.0
+23908,6484924,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,270000.0
+23964,6367727,Female,True,Commercial associate,Higher education,Married,House / apartment,HR staff,180000.0
+24001,5929638,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,225000.0
+24066,5975682,Female,True,Working,Higher education,Married,House / apartment,Sales staff,270000.0
+24187,6395953,Male,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Security staff,162000.0
+24293,6089303,Female,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Sales staff,225000.0
+24375,5861072,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Medicine staff,540000.0
+24397,5090324,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,135000.0
+24434,6239756,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,157500.0
+24436,6423956,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,837000.0
+24481,6099093,Male,True,Working,Secondary / secondary special,Married,House / apartment,Cleaning staff,90000.0
+24591,5949627,Female,True,Working,Higher education,Married,House / apartment,Sales staff,252000.0
+24603,7022334,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,256500.0
+24619,5883148,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,180000.0
+24647,6472418,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,157500.0
+25064,6112185,Female,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,238500.0
+25152,6241203,Male,True,Working,Higher education,Married,House / apartment,Core staff,427500.0
+25199,5315081,Male,True,Working,Secondary / secondary special,Married,House / apartment,IT staff,180000.0
+25201,6498290,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,247500.0
+25325,6053717,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,270000.0
+25360,5726867,Male,True,Working,Higher education,Married,House / apartment,Security staff,292500.0
+25534,5918954,Female,True,Working,Higher education,Married,House / apartment,Core staff,135000.0
+25550,5833242,Female,True,Working,Higher education,Married,Office apartment,Core staff,207000.0
+25762,6006681,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,112500.0
+25776,5978810,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,157500.0
+25864,6753050,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,202500.0
+26179,6665586,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+26216,5548357,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,382500.0
+26217,6008743,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,405000.0
+26222,6248382,Female,True,Working,Secondary / secondary special,Widow,House / apartment,High skill tech staff,180000.0
+26232,5738748,Male,True,Working,Higher education,Married,House / apartment,Core staff,135000.0
+26539,6507424,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+26631,5833697,Female,True,Working,Higher education,Married,House / apartment,Core staff,360000.0
+26715,6087623,Male,True,Commercial associate,Higher education,Separated,House / apartment,Core staff,450000.0
+26731,6742141,Female,True,State servant,Higher education,Married,House / apartment,Core staff,157500.0
+26811,6741658,Female,True,Commercial associate,Higher education,Single / not married,House / apartment,High skill tech staff,405000.0
+26813,6152053,Male,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,157500.0
+26883,6272246,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,216000.0
+27028,7760616,Female,True,Working,Higher education,Married,House / apartment,Sales staff,630000.0
+27125,6737034,Male,True,Working,Secondary / secondary special,Married,With parents,Cooking staff,157500.0
+27259,5113315,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,153000.0
+27277,7028420,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,189000.0
+27278,5833706,Female,True,Working,Higher education,Married,House / apartment,Core staff,360000.0
+27362,6798501,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,135000.0
+27363,5113694,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,247500.0
+27512,5625889,Male,True,Commercial associate,Higher education,Separated,House / apartment,Core staff,243000.0
+27652,5796877,Female,True,Working,Higher education,Married,House / apartment,Core staff,247500.0
+27685,7971758,Female,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,360000.0
+27739,5626557,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,193500.0
+27798,5857329,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Core staff,292500.0
+27889,6665181,Female,True,Commercial associate,Higher education,Separated,Office apartment,Private service staff,360000.0
+27935,7126036,Female,True,Working,Secondary / secondary special,Separated,House / apartment,Cleaning staff,108000.0
+27956,6690578,Male,True,Commercial associate,Higher education,Married,House / apartment,Security staff,256500.0
+27959,6690579,Male,True,Commercial associate,Higher education,Married,House / apartment,Security staff,256500.0
+27994,6292393,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Medicine staff,153000.0
+28005,6631430,Female,True,Working,Higher education,Married,House / apartment,Core staff,157500.0
+28051,6779825,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,Core staff,180000.0
+28073,6209417,Female,True,Working,Higher education,Married,House / apartment,Sales staff,90000.0
+28168,5113696,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,247500.0
+28184,5971247,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Private service staff,270000.0
+28354,5010864,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,450000.0
+28448,5313600,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,180000.0
+28500,5499472,Female,True,Working,Higher education,Married,House / apartment,Sales staff,270000.0
+28502,6099513,Female,True,Working,Secondary / secondary special,Married,House / apartment,Cleaning staff,112500.0
+28671,6659178,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,67500.0
+28716,6621124,Female,True,State servant,Higher education,Married,House / apartment,Core staff,225000.0
+28860,6395802,Male,True,Working,Higher education,Separated,With parents,High skill tech staff,189000.0
+28874,5738752,Male,True,Working,Higher education,Married,House / apartment,Core staff,135000.0
+29165,5599153,Male,True,State servant,Incomplete higher,Married,Rented apartment,High skill tech staff,243000.0
+29179,6528486,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,180000.0
+29216,6575106,Male,True,Working,Incomplete higher,Married,House / apartment,Security staff,225000.0
+29536,5010365,Female,True,Working,Higher education,Separated,House / apartment,Medicine staff,157500.0
+29547,6264738,Female,True,Commercial associate,Secondary / secondary special,Married,With parents,Core staff,202500.0
+29576,5760607,Female,True,Working,Higher education,Married,House / apartment,Sales staff,630000.0
+29747,5029464,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,112500.0
+29924,5089943,Female,True,State servant,Higher education,Married,House / apartment,Core staff,360000.0
+30148,5823289,Female,True,Working,Secondary / secondary special,Married,House / apartment,Private service staff,135000.0
+30259,5405498,Female,True,Working,Higher education,Civil marriage,House / apartment,High skill tech staff,225000.0
+30263,5932002,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,202500.0
+30347,6471945,Male,True,Commercial associate,Incomplete higher,Married,House / apartment,Core staff,157500.0
+30356,6724215,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,202500.0
+30430,5872563,Female,True,State servant,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,148500.0
+30496,7429737,Female,True,Working,Secondary / secondary special,Married,House / apartment,Cooking staff,292500.0
+30576,6223583,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,135000.0
+30816,6465230,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Security staff,337500.0
+30984,6801146,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,135000.0
+31100,6054343,Female,True,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,High skill tech staff,135000.0
+31147,6162749,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,112500.0
+31298,5795784,Female,True,Working,Higher education,Civil marriage,House / apartment,High skill tech staff,360000.0
+31314,6367446,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,337500.0
+31335,5891304,Female,True,Commercial associate,Higher education,Separated,House / apartment,Cleaning staff,315000.0
+31392,5236527,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+31425,6277066,Female,True,Working,Higher education,Married,House / apartment,Core staff,292500.0
+31492,6575994,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Security staff,94500.0
+31525,5877013,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,202500.0
+31650,5416538,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Private service staff,225000.0
+31826,5022334,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,256500.0
+31870,5343422,Female,True,Working,Secondary / secondary special,Married,House / apartment,Waiters/barmen staff,121500.0
+31943,5091161,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,256500.0
+32101,5028564,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,315000.0
+32173,5892096,Male,True,Working,Higher education,Married,House / apartment,Sales staff,135000.0
+32224,6233554,Female,True,State servant,Higher education,Married,House / apartment,Core staff,90000.0
+32386,5095387,Male,True,Working,Secondary / secondary special,Married,Municipal apartment,Core staff,270000.0
+32591,6780111,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,157500.0
+32702,6498341,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,225000.0
+32736,5702119,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,450000.0
+33012,6203142,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,292500.0
+33025,5807568,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,202500.0
+33322,5785225,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Cooking staff,202500.0
+33368,6398259,Female,True,Working,Secondary / secondary special,Married,Municipal apartment,Sales staff,135000.0
+33430,5580958,Male,True,Working,Higher education,Single / not married,House / apartment,IT staff,166500.0
+33456,6235217,Female,True,State servant,Higher education,Separated,House / apartment,Core staff,900000.0
+33618,5132674,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,225000.0
+33639,6772900,Female,True,State servant,Secondary / secondary special,Civil marriage,Office apartment,Medicine staff,202500.0
+34029,6658880,Female,True,Working,Incomplete higher,Civil marriage,House / apartment,Sales staff,135000.0
+34033,5132673,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,225000.0
+34144,5980871,Female,True,Working,Incomplete higher,Married,House / apartment,Core staff,171000.0
+34398,6540389,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Security staff,400500.0
+34483,6088955,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,135000.0
+34487,5892014,Female,True,Commercial associate,Higher education,Single / not married,House / apartment,Core staff,135000.0
+34745,7169172,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,67500.0
+34854,7010570,Female,True,Working,Higher education,Married,House / apartment,Sales staff,121500.0
+35006,6543434,Male,True,Working,Higher education,Married,House / apartment,Sales staff,292500.0
+35121,5132620,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,292500.0
+35295,5068170,Male,True,Working,Higher education,Married,House / apartment,IT staff,310500.0
+35444,5919433,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,High skill tech staff,76500.0
+35505,5062540,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Medicine staff,135000.0
+35660,5738632,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,211500.0
+35765,6778693,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,382500.0
+35881,5879164,Female,True,Commercial associate,Incomplete higher,Married,House / apartment,Core staff,166500.0
+36009,5892038,Male,True,Working,Higher education,Single / not married,Co-op apartment,High skill tech staff,202500.0
+36054,6728554,Female,True,Working,Incomplete higher,Civil marriage,House / apartment,Core staff,157500.0
+36365,6248387,Female,True,Working,Secondary / secondary special,Widow,House / apartment,High skill tech staff,180000.0
+36456,5343427,Female,True,Working,Secondary / secondary special,Married,House / apartment,Waiters/barmen staff,121500.0
+36556,6409611,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Core staff,180000.0
+36908,5883716,Female,True,Working,Higher education,Single / not married,House / apartment,Sales staff,180000.0
+36973,5929314,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,112500.0
+37040,5178386,Female,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Medicine staff,202500.0
+37183,6498543,Female,True,State servant,Higher education,Separated,House / apartment,Core staff,247500.0
+37234,6068621,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,157500.0
+37334,6099167,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Cleaning staff,90000.0
+37643,5853853,Male,True,Commercial associate,Incomplete higher,Married,House / apartment,Core staff,256500.0
+37722,5708554,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,211500.0
+37960,6780639,Female,True,Working,Higher education,Married,House / apartment,Core staff,180000.0
+38087,6801136,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,135000.0
+38245,5853841,Male,True,Commercial associate,Incomplete higher,Married,House / apartment,Core staff,256500.0
+38548,6611682,Male,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,157500.0
+38569,6186463,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,182250.0
+38692,5196649,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,135000.0
+38795,6115720,Male,True,Working,Incomplete higher,Single / not married,House / apartment,Sales staff,225000.0
+38865,6772903,Female,True,State servant,Secondary / secondary special,Civil marriage,Office apartment,Medicine staff,202500.0
+38895,5943132,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Cooking staff,112500.0
+38940,6428793,Male,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Core staff,315000.0
+39003,5822760,Female,True,Working,Higher education,Married,House / apartment,Core staff,135000.0
+39014,6296546,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,405000.0
+39168,5625854,Male,True,Commercial associate,Higher education,Separated,House / apartment,Core staff,243000.0
+39177,6759474,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,135000.0
+39212,5022417,Female,True,Working,Higher education,Married,With parents,High skill tech staff,157500.0
+39472,6297042,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,157500.0
+39501,5791855,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,315000.0
+39632,6317850,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,243000.0
+39643,5949187,Male,True,Commercial associate,Higher education,Civil marriage,House / apartment,Security staff,180000.0
+39769,5943134,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Cooking staff,112500.0
+39815,5090849,Female,True,Working,Higher education,Married,House / apartment,Core staff,270000.0
+39832,6135034,Female,True,Working,Higher education,Married,House / apartment,Core staff,112500.0
+39914,6591946,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,135000.0
+39986,6099515,Female,True,Working,Secondary / secondary special,Married,House / apartment,Cleaning staff,112500.0
+40069,5928869,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,135000.0
+40354,5808176,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,High skill tech staff,108000.0
+40377,6247289,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Core staff,225000.0
+40912,6544792,Female,True,Commercial associate,Higher education,Separated,House / apartment,Cleaning staff,315000.0
+41019,5169180,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,67500.0
+41057,7010370,Female,True,Working,Higher education,Separated,House / apartment,Medicine staff,157500.0
+41067,5797380,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,315000.0
+41122,6448965,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,180000.0
+41183,5796826,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+41204,5625417,Female,True,State servant,Higher education,Married,House / apartment,Core staff,121500.0
+41243,6498287,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,247500.0
+41356,6317855,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,243000.0
+41359,5317988,Female,True,Working,Higher education,Married,With parents,Core staff,135000.0
+41361,6507958,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,225000.0
+41393,5113171,Female,True,Working,Secondary / secondary special,Married,House / apartment,Cooking staff,67500.0
+41475,5988500,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,157500.0
+41500,5548405,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Medicine staff,180000.0
+41502,5971245,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Private service staff,270000.0
+41704,5344070,Female,True,State servant,Higher education,Single / not married,House / apartment,High skill tech staff,135000.0
+41890,6424929,Female,True,Working,Incomplete higher,Married,House / apartment,Core staff,162000.0
+41949,5680132,Female,True,Working,Higher education,Married,With parents,Core staff,112500.0
+41959,5315083,Male,True,Working,Secondary / secondary special,Married,House / apartment,IT staff,180000.0
+41966,5726402,Male,True,Commercial associate,Higher education,Married,House / apartment,Security staff,432000.0
+42364,6686009,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,202500.0
+42412,5416195,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,382500.0
+42594,5237590,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,315000.0
+42798,5797387,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,315000.0
+42991,6107139,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,202500.0
+43145,6540386,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Security staff,400500.0
+43383,5069234,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Medicine staff,202500.0
+43426,6108687,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,450000.0
+43529,6052435,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,112500.0
+43637,5679841,Female,True,Working,Higher education,Married,House / apartment,HR staff,175500.0
+44002,5759662,Female,True,Working,Secondary / secondary special,Separated,House / apartment,Sales staff,225000.0
+44003,5169463,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,225000.0
+44028,6277323,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,157500.0
+44032,5726400,Male,True,Commercial associate,Higher education,Married,House / apartment,Security staff,432000.0
+44099,5343428,Female,True,Working,Secondary / secondary special,Married,House / apartment,Waiters/barmen staff,121500.0
+44110,5062685,Male,True,State servant,Secondary / secondary special,Married,Municipal apartment,High skill tech staff,247500.0
+44143,6008748,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,405000.0
+44179,6605125,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Medicine staff,292500.0
+44277,5836693,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,261000.0
+44324,5995582,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,112500.0
+44344,5343407,Female,True,Working,Higher education,Married,House / apartment,Core staff,202500.0
+44430,6248503,Male,True,Commercial associate,Higher education,Civil marriage,House / apartment,Sales staff,247500.0
+44623,5901078,Male,True,Working,Higher education,Married,House / apartment,Sales staff,180000.0
+44875,6259066,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,94500.0
+44923,6153999,Male,True,Commercial associate,Secondary / secondary special,Married,Municipal apartment,Core staff,270000.0
+44946,6837522,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,450000.0
+44986,5029353,Female,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,270000.0
+44989,5939552,Male,True,State servant,Higher education,Single / not married,House / apartment,High skill tech staff,292500.0
+44999,5770867,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,337500.0
+45045,5028567,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,315000.0
+45059,5873111,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Security staff,202500.0
+45101,6780646,Female,True,Working,Higher education,Married,House / apartment,Core staff,180000.0
+45111,6737170,Female,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Core staff,315000.0
+45122,6575998,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Security staff,94500.0
+45198,6223668,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,562500.0
+45207,6046376,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,225000.0
+45240,6722546,Male,True,Working,Incomplete higher,Married,House / apartment,High skill tech staff,247500.0
+45283,5580282,Female,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,157500.0
+45327,6272054,Male,True,State servant,Higher education,Married,House / apartment,Core staff,292500.0
+45538,5702064,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Core staff,211500.0
+45542,5952001,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,202500.0
+45699,6638164,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+45718,6248386,Female,True,Working,Secondary / secondary special,Widow,House / apartment,High skill tech staff,180000.0
+45863,6398258,Female,True,Working,Secondary / secondary special,Married,Municipal apartment,Sales staff,135000.0
+45916,6107138,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,202500.0
+45961,6519191,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,90000.0
+46066,6604681,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,247500.0
+46180,6292392,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Medicine staff,153000.0
+46186,6046993,Female,True,Working,Higher education,Married,House / apartment,Medicine staff,144000.0
+46206,5788758,Female,True,Commercial associate,Higher education,Married,With parents,Sales staff,270000.0
+46245,6424227,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,247500.0
+46251,6612300,Male,True,Working,Secondary / secondary special,Married,House / apartment,Cooking staff,135000.0
+46323,5868052,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,585000.0
+46335,6277508,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,202500.0
+46429,6737727,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,153000.0
+46671,5996538,Female,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Private service staff,315000.0
+46688,6415314,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,193500.0
+46772,6591943,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,135000.0
+47003,6048433,Male,True,State servant,Secondary / secondary special,Married,With parents,Security staff,157500.0
+47105,5932074,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,117000.0
+47439,6107577,Female,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,225000.0
+47695,5738589,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,315000.0
+48059,5499768,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Core staff,225000.0
+48069,5706641,Female,True,Working,Secondary / secondary special,Separated,House / apartment,Sales staff,216000.0
+48107,6311287,Female,True,State servant,Higher education,Married,House / apartment,Core staff,202500.0
+48181,6248432,Female,True,Commercial associate,Incomplete higher,Married,House / apartment,Sales staff,157500.0
+48284,6737797,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Medicine staff,135000.0
+48869,6842762,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,135000.0
+48994,6544791,Female,True,Commercial associate,Higher education,Separated,House / apartment,Cleaning staff,315000.0
+49002,6108690,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,450000.0
+49015,6209589,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+49227,6154595,Female,True,Commercial associate,Higher education,Single / not married,House / apartment,Core staff,270000.0
+49398,5975662,Female,True,Commercial associate,Incomplete higher,Married,House / apartment,Private service staff,112500.0
+49459,6163130,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,180000.0
+49461,6249089,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,270000.0
+49464,5760923,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,202500.0
+49469,6730615,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,360000.0
+49621,5010368,Female,True,Working,Higher education,Separated,House / apartment,Medicine staff,157500.0
+49827,6741692,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+49868,6239903,Male,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,337500.0
+49912,5884017,Female,True,State servant,Higher education,Married,House / apartment,IT staff,143100.0
+49930,6591142,Female,True,Working,Secondary / secondary special,Married,House / apartment,Waiters/barmen staff,135000.0
+49966,5823880,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,225000.0
+49976,5882957,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+50043,5384707,Female,True,State servant,Higher education,Married,House / apartment,Core staff,202500.0
+50071,7259069,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,94500.0
+50234,5996637,Male,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,292500.0
+50265,5046308,Female,True,Working,Higher education,Married,House / apartment,Sales staff,135000.0
+50376,6396463,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,270000.0
+50420,5820484,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+50582,6736963,Male,True,Working,Higher education,Single / not married,Rented apartment,High skill tech staff,225000.0
+50673,6782850,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,225000.0
+50733,7741691,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+50745,6464405,Female,True,Working,Higher education,Single / not married,House / apartment,HR staff,270000.0
+50812,5829917,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,256500.0
+50923,6837214,Male,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Security staff,157500.0
+50995,6842586,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,202500.0
+51010,5061389,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Medicine staff,225000.0
+51031,5727323,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,135000.0
+51033,6772898,Female,True,State servant,Secondary / secondary special,Civil marriage,Office apartment,Medicine staff,202500.0
+51213,5702072,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Core staff,211500.0
+51307,6078242,Female,True,Commercial associate,Incomplete higher,Separated,House / apartment,Sales staff,225000.0
+51338,6146944,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,270000.0
+51643,6100548,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,Security staff,360000.0
+51653,6540387,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Security staff,400500.0
+52033,5788888,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,337500.0
+52037,5797204,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,157500.0
+52255,5820963,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,90000.0
+52368,5011002,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,157500.0
+52378,5971422,Female,True,State servant,Higher education,Separated,House / apartment,Core staff,243000.0
+52410,5841113,Male,True,Working,Incomplete higher,Civil marriage,House / apartment,Sales staff,292500.0
+52421,6604643,Male,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Core staff,1350000.0
+52512,5785222,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Cooking staff,202500.0
+52538,6428706,Female,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,270000.0
+52545,6659184,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,67500.0
+52559,5021814,Female,True,Working,Secondary / secondary special,Married,House / apartment,Cooking staff,67500.0
+52863,6728551,Female,True,Working,Incomplete higher,Civil marriage,House / apartment,Core staff,157500.0
+53129,5807565,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,202500.0
+53268,5224247,Male,True,Commercial associate,Higher education,Civil marriage,With parents,Core staff,180000.0
+53465,6801279,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,450000.0
+53642,6391078,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,247500.0
+53672,6423944,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,837000.0
+53887,6722826,Female,True,Working,Higher education,Married,House / apartment,Core staff,328500.0
+53891,6106727,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,247500.0
+54150,6486138,Male,True,Working,Higher education,Single / not married,House / apartment,Medicine staff,270000.0
+54200,5889377,Male,True,Working,Incomplete higher,Civil marriage,House / apartment,Sales staff,225000.0
+54628,6053522,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,157500.0
+54698,5061705,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,High skill tech staff,135000.0
+54756,5906006,Female,True,Working,Secondary / secondary special,Civil marriage,Co-op apartment,Sales staff,112500.0
+54820,5029467,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,112500.0
+55117,5952005,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,202500.0
+55137,5971759,Female,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,360000.0
+55163,5929311,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,112500.0
+55177,6242312,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,540000.0
+55229,6317852,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,243000.0
+55279,5112615,Male,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,180000.0
+55502,6398261,Female,True,Working,Secondary / secondary special,Married,Municipal apartment,Sales staff,135000.0
+55681,5691751,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,130050.0
+55897,6736710,Female,True,Commercial associate,Secondary / secondary special,Single / not married,With parents,Cooking staff,180000.0
+55915,6064774,Female,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,225000.0
+55930,6363326,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+55938,5343936,Female,True,Working,Higher education,Civil marriage,House / apartment,Sales staff,135000.0
+56086,5927605,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,382500.0
+56182,5884009,Female,True,State servant,Higher education,Married,House / apartment,IT staff,143100.0
+56216,6154001,Male,True,Commercial associate,Secondary / secondary special,Married,Municipal apartment,Core staff,270000.0
+56464,5743552,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,112500.0
+56486,6132457,Female,True,State servant,Higher education,Married,Rented apartment,Core staff,315000.0
+56512,6742383,Female,True,Working,Incomplete higher,Single / not married,House / apartment,Core staff,225000.0
+56669,7742902,Male,True,Working,Secondary / secondary special,Married,House / apartment,Cleaning staff,180000.0
+56858,6586612,Female,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,135000.0
+56918,6722547,Male,True,Working,Incomplete higher,Married,House / apartment,High skill tech staff,247500.0
+57015,5822761,Female,True,Working,Higher education,Married,House / apartment,Core staff,135000.0
+57119,5951614,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,90000.0
+57396,5906005,Female,True,Working,Secondary / secondary special,Civil marriage,Co-op apartment,Sales staff,112500.0
+57402,7090632,Female,True,Commercial associate,Incomplete higher,Married,House / apartment,Sales staff,292500.0
+57427,5833710,Female,True,Working,Higher education,Married,House / apartment,Core staff,360000.0
+57542,5857408,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,135000.0
+57623,5919432,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,High skill tech staff,76500.0
+57683,5580167,Female,True,Working,Secondary / secondary special,Separated,House / apartment,Sales staff,135000.0
+57702,5761010,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,High skill tech staff,324000.0
+57789,5416543,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Private service staff,225000.0
+57858,6132914,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,292500.0
+57924,6263700,Female,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Sales staff,450000.0
+57954,5416261,Female,True,State servant,Higher education,Civil marriage,House / apartment,Medicine staff,130500.0
+58004,5155918,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,144000.0
+58127,6232960,Female,True,Working,Secondary / secondary special,Married,With parents,Security staff,90000.0
+58257,5548998,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,157500.0
+58276,5760916,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,202500.0
+58368,6232959,Female,True,Working,Secondary / secondary special,Married,With parents,Security staff,90000.0
+58602,6153916,Male,True,State servant,Higher education,Married,Rented apartment,Core staff,270000.0
+58634,5760920,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,202500.0
+58980,6396462,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,270000.0
+59077,5833715,Female,True,Working,Higher education,Married,House / apartment,Core staff,360000.0
+59337,5905294,Male,True,Working,Incomplete higher,Married,House / apartment,High skill tech staff,225000.0
+59458,5892582,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,189000.0
+59570,6801456,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+59572,6065153,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,157500.0
+59612,6590474,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,144000.0
+59660,6050932,Female,True,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,Core staff,135000.0
+59734,5841132,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+59763,6604646,Male,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Core staff,1350000.0
+59777,5883909,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,216000.0
+59892,5028563,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,315000.0
+59966,6153045,Male,True,Working,Higher education,Married,House / apartment,Sales staff,315000.0
+60080,6801135,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,135000.0
+60145,6152568,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,225000.0
+60177,5938458,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,247500.0
+60577,6520571,Female,True,Working,Higher education,Married,House / apartment,Sales staff,225000.0
+60627,6601235,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,225000.0
+60694,6611685,Male,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,157500.0
+60804,6498285,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,247500.0
+60829,6636399,Female,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,135000.0
+60883,6357418,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,108000.0
+60901,5807571,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,202500.0
+61231,6742146,Female,True,State servant,Higher education,Married,House / apartment,Core staff,157500.0
+61297,5888816,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,157500.0
+61361,6158864,Female,True,Working,Higher education,Married,With parents,Core staff,270000.0
+61460,6591145,Female,True,Working,Secondary / secondary special,Married,House / apartment,Waiters/barmen staff,135000.0
+61823,5978984,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,157500.0
+61985,6801138,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,135000.0
+62213,7586479,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,202500.0
+62231,5791959,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,292500.0
+62251,6423960,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,837000.0
+62429,6842582,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,202500.0
+62485,6100545,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,Security staff,360000.0
+62574,5971253,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Private service staff,270000.0
+62579,5866913,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,292500.0
+62636,6727985,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+62805,6498337,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,225000.0
+62835,5776470,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+62974,6520259,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,166500.0
+63160,6457007,Female,True,State servant,Higher education,Married,House / apartment,Core staff,157500.0
+63318,6498340,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,225000.0
+63381,6115561,Female,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,157500.0
+63467,6046377,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,225000.0
+63622,6089556,Female,True,Working,Higher education,Single / not married,House / apartment,High skill tech staff,121500.0
+63753,5236028,Male,True,Working,Higher education,Single / not married,House / apartment,High skill tech staff,256500.0
+63822,6152565,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,225000.0
+63828,5760606,Female,True,Working,Higher education,Married,House / apartment,Sales staff,630000.0
+63871,6686001,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,202500.0
+64037,6372698,Male,True,Commercial associate,Incomplete higher,Single / not married,House / apartment,High skill tech staff,247500.0
+64362,6604645,Male,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Core staff,1350000.0
+64463,6233766,Female,True,Commercial associate,Incomplete higher,Single / not married,Municipal apartment,Sales staff,157500.0
+64623,5113412,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,450000.0
+64653,6737247,Male,True,Working,Higher education,Married,House / apartment,Core staff,184500.0
+64720,6152052,Male,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,157500.0
+64762,5625861,Male,True,Commercial associate,Higher education,Separated,House / apartment,Core staff,243000.0
+65159,5028378,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,135000.0
+65316,6742904,Male,True,Working,Secondary / secondary special,Married,House / apartment,Cleaning staff,180000.0
+65413,5542497,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,211500.0
+65453,5841072,Female,True,Working,Higher education,Married,House / apartment,Core staff,292500.0
+65602,5993173,Female,True,Working,Higher education,Separated,House / apartment,Core staff,225000.0
+65626,6242325,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,540000.0
+65870,6098733,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,180000.0
+65958,6297580,Male,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,157500.0
+66027,5970842,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Medicine staff,112500.0
+66125,6723153,Male,True,Working,Higher education,Married,Rented apartment,High skill tech staff,135000.0
+66199,6052436,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,112500.0
+66405,5759639,Female,True,Working,Higher education,Married,House / apartment,Core staff,72000.0
+66566,5877015,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,202500.0
+66645,5010862,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,450000.0
+66780,5853846,Male,True,Commercial associate,Incomplete higher,Married,House / apartment,Core staff,256500.0
+66914,5808200,Male,True,Commercial associate,Incomplete higher,Single / not married,House / apartment,Sales staff,148500.0
+66933,5938456,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,247500.0
+67067,6689239,Female,True,State servant,Higher education,Separated,House / apartment,Medicine staff,360000.0
+67337,5627748,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,405000.0
+67595,6098820,Female,True,Working,Secondary / secondary special,Civil marriage,With parents,Cleaning staff,90000.0
+67959,5465471,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,180000.0
+68101,6602356,Female,True,Working,Higher education,Married,House / apartment,Sales staff,270000.0
+68159,5066486,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,166500.0
+68199,5549107,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,315000.0
+68356,5021291,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,180000.0
+68427,5797383,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,315000.0
+68471,5829903,Male,True,State servant,Higher education,Single / not married,House / apartment,High skill tech staff,292500.0
+68816,6372882,Male,True,Commercial associate,Higher education,Civil marriage,House / apartment,High skill tech staff,315000.0
+68863,6140237,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,202500.0
+68884,6480095,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,292500.0
+68903,5971420,Female,True,State servant,Higher education,Separated,House / apartment,Core staff,243000.0
+68990,5707235,Female,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,135000.0
+69256,6737032,Male,True,Working,Secondary / secondary special,Married,With parents,Cooking staff,157500.0
+69259,5189647,Male,True,Working,Higher education,Single / not married,House / apartment,Sales staff,112500.0
+69411,5797390,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,315000.0
+69449,5343786,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,157500.0
+69563,5549110,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,315000.0
+69615,6204797,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,247500.0
+69629,5236097,Female,True,State servant,Higher education,Married,House / apartment,Cooking staff,180000.0
+69691,5559216,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+69792,5062593,Male,True,State servant,Higher education,Married,House / apartment,Core staff,135000.0
+69821,5336419,Male,True,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,202500.0
+70046,6291563,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,117000.0
+70053,5169487,Female,True,State servant,Higher education,Married,House / apartment,Core staff,135000.0
+70066,6723671,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,450000.0
+70085,5891339,Female,True,Commercial associate,Higher education,Separated,House / apartment,Cleaning staff,315000.0
+70097,5464939,Male,True,Working,Higher education,Married,House / apartment,Sales staff,337500.0
+70100,5178342,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,90000.0
+70162,6590776,Female,True,Working,Incomplete higher,Married,With parents,High skill tech staff,180000.0
+70414,6686010,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,202500.0
+70466,7115561,Female,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,157500.0
+70514,5883443,Female,True,Working,Secondary / secondary special,Civil marriage,Rented apartment,Medicine staff,112500.0
+70537,6519707,Male,True,Working,Secondary / secondary special,Married,Rented apartment,Core staff,292500.0
+70552,6249104,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,270000.0
+70568,6126326,Female,True,State servant,Secondary / secondary special,Widow,House / apartment,Cooking staff,166500.0
+70577,6736610,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,225000.0
+70608,5499473,Female,True,Working,Higher education,Married,House / apartment,Sales staff,270000.0
+70841,6115727,Male,True,Working,Incomplete higher,Single / not married,House / apartment,Sales staff,225000.0
+70918,6053664,Female,True,Working,Secondary / secondary special,Married,Rented apartment,Sales staff,171000.0
+71105,5384698,Female,True,State servant,Higher education,Married,House / apartment,Core staff,202500.0
+71201,6141049,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,103500.0
+71251,7586793,Male,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,405000.0
+71280,6394586,Male,True,Working,Higher education,Single / not married,House / apartment,Core staff,252000.0
+71324,5832722,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,247500.0
+71359,6078237,Female,True,Commercial associate,Incomplete higher,Separated,House / apartment,Sales staff,225000.0
+71397,5996635,Male,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,292500.0
+71706,7605122,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Medicine staff,292500.0
+71877,6398256,Female,True,Working,Secondary / secondary special,Married,Municipal apartment,Sales staff,135000.0
+71900,5917999,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+72229,5738588,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,315000.0
+72458,6277509,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,202500.0
+72612,6234861,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,301500.0
+72701,5829922,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,256500.0
+72786,6078236,Female,True,Commercial associate,Incomplete higher,Separated,House / apartment,Sales staff,225000.0
+72808,5833241,Female,True,Working,Higher education,Married,Office apartment,Core staff,207000.0
+72968,6798780,Male,True,Working,Secondary / secondary special,Married,Municipal apartment,Security staff,180000.0
+73185,6132458,Female,True,State servant,Higher education,Married,Rented apartment,Core staff,315000.0
+73293,5936326,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,40500.0
+73435,6115725,Male,True,Working,Incomplete higher,Single / not married,House / apartment,Sales staff,225000.0
+73564,5235622,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,202500.0
+73565,5315155,Female,True,Working,Secondary / secondary special,Married,Municipal apartment,Sales staff,135000.0
+73567,6233186,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,202500.0
+73610,5169486,Female,True,State servant,Higher education,Married,House / apartment,Core staff,135000.0
+73626,5548889,Male,True,Commercial associate,Higher education,Married,Rented apartment,Sales staff,202500.0
+73661,5944328,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,157500.0
+73723,5344114,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Cooking staff,112500.0
+73835,6394588,Male,True,Working,Higher education,Single / not married,House / apartment,Core staff,252000.0
+73841,5906008,Female,True,Working,Secondary / secondary special,Civil marriage,Co-op apartment,Sales staff,112500.0
+73943,5795783,Female,True,Working,Higher education,Civil marriage,House / apartment,High skill tech staff,360000.0
+74474,5224250,Male,True,Commercial associate,Higher education,Civil marriage,With parents,Core staff,180000.0
+74492,6296870,Male,True,Working,Higher education,Married,House / apartment,Core staff,135000.0
+74672,6801149,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,135000.0
+74683,5796120,Male,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,225000.0
+74830,6317857,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,243000.0
+74868,6132460,Female,True,State servant,Higher education,Married,Rented apartment,Core staff,315000.0
+75005,6317833,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,243000.0
+75129,6472597,Female,True,State servant,Higher education,Married,House / apartment,Core staff,360000.0
+75179,5796834,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+75499,6697772,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,202500.0
+75628,6100538,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,Security staff,360000.0
+75723,7079796,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,292500.0
+75831,5416531,Male,True,State servant,Higher education,Married,House / apartment,Core staff,585000.0
+75877,5731058,Female,True,Working,Higher education,Married,House / apartment,Core staff,315000.0
+75901,5957804,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,247500.0
+76297,6730183,Female,True,Working,Secondary / secondary special,Married,House / apartment,Private service staff,81000.0
+76587,6158865,Female,True,Working,Higher education,Married,With parents,Core staff,270000.0
+76714,5976545,Male,True,Working,Higher education,Single / not married,House / apartment,Core staff,225000.0
+76726,5416525,Male,True,State servant,Higher education,Married,House / apartment,Core staff,585000.0
+76795,6486144,Male,True,Working,Higher education,Single / not married,House / apartment,Medicine staff,270000.0
+76899,6519200,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,90000.0
+76920,6318705,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,180000.0
+76929,6785870,Female,True,Working,Higher education,Separated,House / apartment,Core staff,112500.0
+76982,6079801,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,292500.0
+77152,5113416,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Medicine staff,90000.0
+77197,6263705,Female,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Sales staff,450000.0
+77364,6837524,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,450000.0
+77522,5857410,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,135000.0
+77526,5062537,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Medicine staff,135000.0
+77828,5236031,Male,True,Working,Higher education,Single / not married,House / apartment,High skill tech staff,256500.0
+77930,5453524,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,157500.0
+77987,6292307,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,202500.0
+78072,5727445,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,90000.0
+78244,5125880,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Sales staff,180000.0
+78836,6261453,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,382500.0
+78847,5929100,Female,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,315000.0
+79012,7498288,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,247500.0
+79121,6242314,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,540000.0
+79231,5928688,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,292500.0
+79325,6248378,Female,True,Working,Secondary / secondary special,Widow,House / apartment,High skill tech staff,180000.0
+79346,5170372,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,270000.0
+79476,5743401,Male,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+79656,6078366,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,247500.0
+79714,7939676,Male,True,Working,Higher education,Married,House / apartment,Core staff,427500.0
+79794,6520482,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,207000.0
+79839,6297582,Male,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,157500.0
+79964,6586790,Male,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,405000.0
+79965,6394994,Male,True,Working,Higher education,Single / not married,House / apartment,Core staff,112500.0
+79989,5971764,Female,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,360000.0
+80525,5951611,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,90000.0
+80605,5384700,Female,True,State servant,Higher education,Married,House / apartment,Core staff,202500.0
+80664,6471623,Male,True,State servant,Higher education,Married,House / apartment,Core staff,157500.0
+80839,5760615,Female,True,Working,Higher education,Married,House / apartment,Sales staff,630000.0
+80872,6591950,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,135000.0
+80932,5193900,Female,True,Working,Higher education,Married,House / apartment,Sales staff,67500.0
+81120,5934543,Male,True,State servant,Higher education,Married,House / apartment,Security staff,180000.0
+81424,6153722,Female,True,Commercial associate,Incomplete higher,Civil marriage,Municipal apartment,High skill tech staff,270000.0
+81723,6162750,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,112500.0
+81765,5235617,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,202500.0
+81775,5772052,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,225000.0
+81805,5678702,Male,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Sales staff,270000.0
+81919,5536646,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Sales staff,292500.0
+81924,6618649,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,117000.0
+81990,5169491,Female,True,State servant,Higher education,Married,House / apartment,Core staff,135000.0
+81999,6272721,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,157500.0
+82229,5580168,Female,True,Working,Secondary / secondary special,Separated,House / apartment,Sales staff,135000.0
+82815,6484825,Male,True,Working,Higher education,Married,House / apartment,Sales staff,315000.0
+82817,5236135,Female,True,Working,Higher education,Single / not married,House / apartment,Sales staff,112500.0
+82846,5343409,Female,True,Working,Higher education,Married,House / apartment,Core staff,202500.0
+82872,6586900,Female,True,Working,Higher education,Married,House / apartment,IT staff,279000.0
+82898,6367653,Female,True,Working,Higher education,Married,House / apartment,Core staff,202500.0
+82916,5713746,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,270000.0
+82943,5738815,Female,True,Working,Secondary / secondary special,Separated,House / apartment,Medicine staff,76500.0
+83011,5832723,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,247500.0
+83098,6424930,Female,True,Working,Incomplete higher,Married,House / apartment,Core staff,162000.0
+83148,6741688,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+83175,5499769,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Core staff,225000.0
+83332,6318706,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,180000.0
+83381,6078240,Female,True,Commercial associate,Incomplete higher,Separated,House / apartment,Sales staff,225000.0
+83622,6779551,Male,True,State servant,Secondary / secondary special,Married,House / apartment,Security staff,94500.0
+83646,6317846,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,243000.0
+83668,6089304,Female,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Sales staff,225000.0
+83920,6046989,Female,True,Working,Higher education,Married,House / apartment,Medicine staff,144000.0
+83987,6223291,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,225000.0
+84018,5861069,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Medicine staff,540000.0
+84108,5931990,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,202500.0
+84557,6575993,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Security staff,94500.0
+84616,6763817,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,144000.0
+84622,6068619,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,157500.0
+84676,6423584,Male,True,Working,Higher education,Separated,With parents,High skill tech staff,189000.0
+84704,6498569,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Sales staff,189000.0
+84769,5743395,Male,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+84852,5548355,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,382500.0
+84888,6630859,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Private service staff,270000.0
+84953,6498303,Female,True,Working,Higher education,Widow,House / apartment,High skill tech staff,180000.0
+85025,6048366,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,171000.0
+85191,6053070,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,315000.0
+85611,5861002,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,135000.0
+85695,6107599,Female,True,Working,Higher education,Separated,House / apartment,Sales staff,270000.0
+85750,5731053,Female,True,Working,Higher education,Married,House / apartment,Core staff,315000.0
+85770,5929928,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,418500.0
+85908,6089554,Female,True,Working,Higher education,Single / not married,House / apartment,High skill tech staff,121500.0
+85938,6472118,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,High skill tech staff,112500.0
+86105,5785230,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Cooking staff,202500.0
+86114,5029463,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,112500.0
+86136,6472422,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,157500.0
+86144,6723146,Male,True,Working,Higher education,Married,Rented apartment,High skill tech staff,135000.0
+86235,5542245,Female,True,Working,Secondary / secondary special,Separated,House / apartment,Medicine staff,76500.0
+86250,6292203,Female,True,Commercial associate,Incomplete higher,Civil marriage,House / apartment,High skill tech staff,180000.0
+86259,6686003,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,202500.0
+86523,5066488,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,166500.0
+86542,6392265,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,202500.0
+86553,6212531,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,High skill tech staff,382500.0
+86623,5317881,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,360000.0
+86736,5029461,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,112500.0
+86838,5536653,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Sales staff,292500.0
+86875,5580280,Female,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,157500.0
+86880,5542023,Female,True,Working,Secondary / secondary special,Married,House / apartment,Private service staff,225000.0
+86905,6140615,Male,True,Working,Higher education,Married,House / apartment,IT staff,121500.0
+87097,7723764,Female,True,Working,Higher education,Married,House / apartment,Medicine staff,157500.0
+87461,7627752,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,405000.0
+87527,5453525,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,157500.0
+87975,6153998,Male,True,Pensioner,Secondary / secondary special,Married,Municipal apartment,Core staff,270000.0
+88239,7415880,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,256500.0
+88266,5235675,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Sales staff,405000.0
+88450,6007096,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Waiters/barmen staff,202500.0
+88550,5680162,Female,True,Working,Higher education,Married,House / apartment,Core staff,157500.0
+88806,5866909,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,292500.0
+88971,5028503,Male,True,Working,Higher education,Single / not married,House / apartment,Core staff,265500.0
+89009,5857273,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,90000.0
+89029,7683594,Female,True,Working,Higher education,Married,House / apartment,Sales staff,112500.0
+89080,6008744,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,405000.0
+89312,5996441,Female,True,State servant,Higher education,Married,House / apartment,Core staff,337500.0
+89386,6519194,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,90000.0
+89615,6730184,Female,True,Working,Secondary / secondary special,Married,House / apartment,Private service staff,81000.0
+89676,6520204,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Core staff,270000.0
+90170,6053018,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,211500.0
+90320,6423585,Male,True,Working,Higher education,Separated,With parents,High skill tech staff,189000.0
+90573,6484824,Male,True,Working,Higher education,Married,House / apartment,Sales staff,315000.0
+90613,5010564,Female,True,Working,Higher education,Married,House / apartment,Sales staff,121500.0
+90931,6008708,Female,True,State servant,Higher education,Married,House / apartment,Core staff,193500.0
+90994,6229130,Female,True,Working,Higher education,Civil marriage,House / apartment,Sales staff,135000.0
+91064,6639703,Female,True,Working,Higher education,Civil marriage,House / apartment,Core staff,270000.0
+91088,6661436,Male,True,State servant,Higher education,Married,House / apartment,Core staff,270000.0
+91658,6737539,Female,True,State servant,Higher education,Married,House / apartment,Core staff,225000.0
+91692,5317991,Female,True,Working,Higher education,Married,With parents,Core staff,135000.0
+91834,6078362,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,247500.0
+91927,7367453,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,337500.0
+92128,6723673,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,450000.0
+92134,5934536,Male,True,State servant,Higher education,Married,House / apartment,Security staff,180000.0
+92313,5384706,Female,True,State servant,Higher education,Married,House / apartment,Core staff,202500.0
+92440,6736636,Male,True,State servant,Higher education,Married,House / apartment,Core staff,180000.0
+92517,5823882,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,225000.0
+92529,5680888,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+92570,6209586,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+92602,5727682,Male,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,202500.0
+92731,5996447,Female,True,State servant,Higher education,Married,House / apartment,Core staff,337500.0
+92931,6390667,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,283500.0
+93157,6292199,Female,True,Commercial associate,Incomplete higher,Civil marriage,House / apartment,High skill tech staff,180000.0
+93239,6416177,Male,True,Working,Higher education,Married,House / apartment,Core staff,207000.0
+93281,6591953,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,135000.0
+93400,6591941,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,135000.0
+93450,6248384,Female,True,Working,Secondary / secondary special,Widow,House / apartment,High skill tech staff,180000.0
+93456,6591949,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,135000.0
+93543,5760604,Female,True,Working,Higher education,Married,House / apartment,Sales staff,630000.0
+93579,6154000,Male,True,Commercial associate,Secondary / secondary special,Married,Municipal apartment,Core staff,270000.0
+93687,5796874,Female,True,Working,Higher education,Married,House / apartment,Core staff,247500.0
+93927,5884595,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,247500.0
+94321,5029460,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,112500.0
+94468,6133261,Female,True,Commercial associate,Secondary / secondary special,Married,With parents,Core staff,202500.0
+94496,5772051,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,225000.0
+94621,5978861,Male,True,Working,Higher education,Married,House / apartment,Sales staff,225000.0
+94720,6394587,Male,True,Working,Higher education,Single / not married,House / apartment,Core staff,252000.0
+94766,6106728,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,247500.0
+94783,5010517,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+94924,6591852,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,202500.0
+95259,5474417,Male,True,Working,Secondary / secondary special,Civil marriage,Rented apartment,Sales staff,225000.0
+95334,6108689,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,450000.0
+95452,5938189,Female,True,Working,Higher education,Married,With parents,Core staff,180000.0
+95734,5841079,Female,True,Working,Higher education,Married,House / apartment,Core staff,292500.0
+95914,6132454,Female,True,State servant,Higher education,Married,Rented apartment,Core staff,315000.0
+95916,6416178,Male,True,Working,Higher education,Married,House / apartment,Core staff,207000.0
+95934,5796833,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+95948,5702070,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Core staff,211500.0
+96045,6248383,Female,True,Working,Secondary / secondary special,Widow,House / apartment,High skill tech staff,180000.0
+96179,6261586,Male,True,Working,Secondary / secondary special,Civil marriage,With parents,Core staff,157500.0
+96207,6670768,Female,True,State servant,Higher education,Married,House / apartment,Core staff,144000.0
+96216,5627752,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,405000.0
+96250,6296543,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,405000.0
+96570,6782848,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,225000.0
+96707,6464409,Female,True,Working,Higher education,Single / not married,House / apartment,HR staff,270000.0
+96710,6248381,Female,True,Working,Secondary / secondary special,Widow,House / apartment,High skill tech staff,180000.0
+96838,6022376,Female,True,Working,Higher education,Married,House / apartment,Sales staff,225000.0
+96857,5384705,Female,True,State servant,Higher education,Married,House / apartment,Core staff,202500.0
+96975,6835877,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,180000.0
+97034,6022375,Female,True,Working,Higher education,Married,House / apartment,Sales staff,225000.0
+97108,6363324,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+97303,6367652,Female,True,Working,Higher education,Married,House / apartment,Core staff,202500.0
+97391,7486144,Male,True,Working,Higher education,Single / not married,House / apartment,Medicine staff,270000.0
+97432,6242800,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,90000.0
+97746,6372884,Male,True,Commercial associate,Higher education,Civil marriage,House / apartment,High skill tech staff,315000.0
+97834,6590848,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,202500.0
+97902,6082359,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,171000.0
+98000,5625853,Male,True,Commercial associate,Higher education,Separated,House / apartment,Core staff,243000.0
+98388,6499325,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,112500.0
+98392,5062116,Male,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,310500.0
+98659,6264736,Female,True,Commercial associate,Secondary / secondary special,Married,With parents,Core staff,202500.0
+98705,5770823,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,157500.0
+98712,5996636,Male,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,292500.0
+99040,6803011,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,112500.0
+99337,7282784,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,Core staff,117000.0
+99556,6259086,Female,True,Working,Higher education,Married,House / apartment,Sales staff,90000.0
+99912,5068937,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,225000.0
+99960,6317844,Female,True,State servant,Secondary / secondary special,Married,House / apartment,High skill tech staff,243000.0
+100008,6835879,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,180000.0
+100203,6836345,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,High skill tech staff,360000.0
+100537,6133262,Female,True,Commercial associate,Secondary / secondary special,Married,With parents,Core staff,202500.0
+100583,6454092,Female,True,Working,Higher education,Married,House / apartment,Medicine staff,202500.0
+100592,5317996,Female,True,Working,Higher education,Married,With parents,Core staff,135000.0
+100655,5738587,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,315000.0
+100692,6367731,Female,True,Commercial associate,Higher education,Married,House / apartment,HR staff,180000.0
+100707,6249087,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,270000.0
+100857,6484822,Male,True,Working,Higher education,Married,House / apartment,Sales staff,315000.0
+100972,5236532,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+101055,5928880,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,135000.0
+101160,5178336,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,90000.0
+101294,5548994,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,405000.0
+101326,6835900,Female,True,Working,Higher education,Married,House / apartment,Core staff,328500.0
+101474,5499476,Female,True,Working,Higher education,Married,House / apartment,Sales staff,270000.0
+101512,7798500,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,135000.0
+101541,6728548,Female,True,Working,Incomplete higher,Civil marriage,House / apartment,Core staff,157500.0
+101572,5113414,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Medicine staff,90000.0
+101763,6661435,Male,True,State servant,Higher education,Married,House / apartment,Core staff,270000.0
+102043,6423463,Female,True,Commercial associate,Secondary / secondary special,Single / not married,With parents,Cooking staff,180000.0
+102112,6590473,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,144000.0
+102282,5279187,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,288000.0
+102285,5189646,Male,True,Working,Higher education,Single / not married,House / apartment,Sales staff,112500.0
+102357,6638162,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+102468,5028420,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,189000.0
+102556,6234851,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,301500.0
+102672,6132916,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,292500.0
+102687,6138672,Male,True,State servant,Higher education,Married,House / apartment,Core staff,202500.0
+102704,5792047,Male,True,State servant,Incomplete higher,Civil marriage,House / apartment,Core staff,135000.0
+102825,6132462,Female,True,State servant,Higher education,Married,Rented apartment,Core staff,315000.0
+102838,5680435,Female,True,Working,Higher education,Married,House / apartment,Core staff,135000.0
+102856,7069167,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,135000.0
+102880,6736638,Male,True,State servant,Higher education,Married,House / apartment,Core staff,180000.0
+102884,5857276,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,90000.0
+102935,6163126,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,180000.0
+102987,6801816,Male,True,Working,Secondary / secondary special,Married,With parents,Sales staff,135000.0
+102991,5088860,Female,True,Working,Higher education,Married,House / apartment,Core staff,270000.0
+102993,5062689,Male,True,State servant,Secondary / secondary special,Married,Municipal apartment,High skill tech staff,247500.0
+103008,6612303,Male,True,Working,Secondary / secondary special,Married,House / apartment,Cooking staff,135000.0
+103119,5625855,Male,True,Commercial associate,Higher education,Separated,House / apartment,Core staff,243000.0
+103193,5808175,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,High skill tech staff,108000.0
+103506,5785226,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Cooking staff,202500.0
+103549,5344329,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,135000.0
+103915,5938190,Female,True,Working,Higher education,Married,With parents,Core staff,180000.0
+103967,5010370,Female,True,Working,Higher education,Separated,House / apartment,Medicine staff,157500.0
+104141,6331958,Female,True,Commercial associate,Higher education,Married,House / apartment,Medicine staff,157500.0
+104441,5679836,Female,True,Working,Higher education,Married,House / apartment,HR staff,175500.0
+104752,7203143,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,292500.0
+104771,6728545,Female,True,Working,Incomplete higher,Civil marriage,House / apartment,Core staff,157500.0
+104798,6723156,Male,True,Working,Higher education,Married,Rented apartment,High skill tech staff,135000.0
+104830,5975332,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,112500.0
+104963,6836549,Female,True,Working,Incomplete higher,Married,House / apartment,Sales staff,270000.0
+105044,5315082,Male,True,Working,Secondary / secondary special,Married,House / apartment,IT staff,180000.0
+105228,5068936,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,225000.0
+105421,6758840,Male,True,Commercial associate,Higher education,Married,House / apartment,Security staff,382500.0
+105485,6602541,Male,True,Working,Incomplete higher,Married,House / apartment,Core staff,157500.0
+105600,6009220,Female,True,State servant,Higher education,Married,House / apartment,Core staff,157500.0
+105725,5883713,Female,True,Working,Higher education,Single / not married,House / apartment,Sales staff,180000.0
+105803,6586626,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,360000.0
+105878,5867537,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,225000.0
+106078,6363333,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+106151,5632527,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+106315,5892585,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,189000.0
+106508,6082099,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,76500.0
+106737,6132463,Female,True,State servant,Higher education,Married,Rented apartment,Core staff,315000.0
+107230,5857331,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Core staff,292500.0
+107245,6395806,Male,True,Working,Higher education,Separated,With parents,High skill tech staff,189000.0
+107375,5833244,Female,True,Working,Higher education,Married,Office apartment,Core staff,207000.0
+107545,6759163,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,166500.0
+107727,5625860,Male,True,Commercial associate,Higher education,Separated,House / apartment,Core staff,243000.0
+107856,5820486,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+107996,5892018,Female,True,Commercial associate,Higher education,Single / not married,House / apartment,Core staff,135000.0
+108051,6132455,Female,True,State servant,Higher education,Married,Rented apartment,Core staff,315000.0
+108203,6163123,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,180000.0
+108303,5062404,Male,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,High skill tech staff,202500.0
+108413,6390670,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,283500.0
+108454,6346399,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,382500.0
+108549,6297584,Male,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,157500.0
+108843,6736609,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,225000.0
+108866,6272544,Male,True,Commercial associate,Higher education,Separated,House / apartment,Core staff,450000.0
+109027,5791960,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,292500.0
+109369,6233392,Male,True,State servant,Higher education,Married,Office apartment,HR staff,450000.0
+109676,6138368,Female,True,Working,Secondary / secondary special,Single / not married,With parents,Core staff,135000.0
+109713,6261452,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,382500.0
+109737,5906014,Male,True,Working,Incomplete higher,Married,House / apartment,High skill tech staff,157500.0
+109868,6469262,Female,True,Working,Higher education,Married,House / apartment,Core staff,315000.0
+110116,6730614,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,360000.0
+110168,5857274,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,90000.0
+110211,6261446,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,382500.0
+110232,6798502,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,135000.0
+110240,5884593,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,247500.0
+110281,5224248,Male,True,Commercial associate,Higher education,Civil marriage,With parents,Core staff,180000.0
+110326,5011007,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,157500.0
+110376,5169559,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,90000.0
+110405,6507426,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+110712,6508484,Female,True,Working,Incomplete higher,Civil marriage,House / apartment,Core staff,225000.0
+110796,5021730,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Cleaning staff,180000.0
+110842,6772896,Female,True,State servant,Secondary / secondary special,Civil marriage,Office apartment,Medicine staff,202500.0
+110931,5868051,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,585000.0
+111028,6575996,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Security staff,94500.0
+111106,6837641,Female,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,360000.0
+111248,6803010,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,112500.0
+111250,5829540,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,382500.0
+111379,6772890,Female,True,State servant,Secondary / secondary special,Civil marriage,Office apartment,Medicine staff,202500.0
+111465,5629089,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,99000.0
+111480,6485757,Female,True,Commercial associate,Incomplete higher,Married,House / apartment,Sales staff,270000.0
+111481,5928689,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,292500.0
+111584,6065143,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,High skill tech staff,202500.0
+111640,6297503,Female,True,Commercial associate,Incomplete higher,Married,House / apartment,Sales staff,292500.0
+111667,6006997,Male,True,Working,Higher education,Separated,House / apartment,Core staff,135000.0
+111700,6152162,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,135000.0
+111735,5760322,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,135000.0
+111737,6737031,Male,True,Working,Secondary / secondary special,Married,With parents,Cooking staff,157500.0
+111980,6204796,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,247500.0
+112427,5415620,Female,True,Commercial associate,Higher education,Separated,Municipal apartment,Sales staff,225000.0
+112535,6836550,Female,True,Working,Incomplete higher,Married,House / apartment,Sales staff,270000.0
+112672,5971959,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,225000.0
+112695,5883912,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,216000.0
+112808,5513546,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,180000.0
+112855,5727324,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,135000.0
+112943,6509176,Male,True,Working,Secondary / secondary special,Married,With parents,Sales staff,157500.0
+113264,5796122,Male,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,225000.0
+113286,6054345,Female,True,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,High skill tech staff,135000.0
+113329,5883910,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,216000.0
+113452,6346400,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,382500.0
+113512,6590775,Female,True,Working,Incomplete higher,Married,With parents,High skill tech staff,180000.0
+113514,6737966,Female,True,Working,Incomplete higher,Married,Rented apartment,Medicine staff,315000.0
+113616,6486333,Female,True,Working,Higher education,Married,House / apartment,Core staff,171000.0
+113642,6653006,Female,True,State servant,Higher education,Married,With parents,Core staff,225000.0
+113649,5853840,Male,True,Commercial associate,Incomplete higher,Married,House / apartment,Core staff,256500.0
+113872,5883149,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,180000.0
+113999,6423945,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,837000.0
+114214,6590476,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,144000.0
+114294,6485015,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,189000.0
+114589,7610103,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,135000.0
+114739,6280729,Male,True,Working,Higher education,Single / not married,House / apartment,Core staff,202500.0
+114799,5464851,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,High skill tech staff,180000.0
+114896,6035962,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,High skill tech staff,112500.0
+114933,5971242,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Private service staff,270000.0
+115081,5971248,Female,True,Commercial associate,Secondary / secondary special,Separated,House / apartment,Private service staff,270000.0
+115084,7652997,Female,True,State servant,Higher education,Married,With parents,Core staff,225000.0
+115221,5970507,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,270000.0
+115331,6367733,Female,True,Commercial associate,Higher education,Married,House / apartment,HR staff,180000.0
+115373,6233298,Female,True,Working,Secondary / secondary special,Married,House / apartment,Cleaning staff,90000.0
+115602,6152957,Female,True,Working,Secondary / secondary special,Separated,House / apartment,Sales staff,216000.0
+115701,5062149,Female,True,Working,Higher education,Married,House / apartment,Sales staff,202500.0
+115777,6498286,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,247500.0
+115912,7392270,Female,True,Working,Secondary / secondary special,Married,House / apartment,Medicine staff,202500.0
+115916,6594563,Male,True,State servant,Higher education,Married,House / apartment,High skill tech staff,450000.0
+116092,6235211,Female,True,State servant,Higher education,Separated,House / apartment,Core staff,900000.0
+116106,5236531,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+116130,5948917,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,162000.0
+116189,6576015,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,148500.0
+116759,6507952,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,225000.0
+116853,5892098,Male,True,Working,Higher education,Married,House / apartment,Sales staff,135000.0
+116876,6424551,Female,True,Working,Academic degree,Married,House / apartment,Core staff,157500.0
+116909,6053720,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,270000.0
+116921,5068169,Male,True,Working,Higher education,Married,House / apartment,IT staff,310500.0
+117083,5978611,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,135000.0
+117473,5892590,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,189000.0
+117519,5453526,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,157500.0
+117569,6263703,Female,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Sales staff,450000.0
+117599,6223133,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,292500.0
+117666,5776471,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+117678,5548987,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,405000.0
+117918,5028558,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,315000.0
+117940,6659179,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,67500.0
+117948,5235623,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,202500.0
+117950,5841080,Female,True,Working,Higher education,Married,House / apartment,Core staff,292500.0
+117967,6601236,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,225000.0
+118195,5029466,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,112500.0
+118263,5772291,Female,True,Commercial associate,Higher education,Single / not married,House / apartment,Core staff,292500.0
+118321,5971421,Female,True,State servant,Higher education,Separated,House / apartment,Core staff,243000.0
+118469,6009221,Female,True,State servant,Higher education,Married,House / apartment,Core staff,157500.0
+118472,5022325,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,256500.0
+118623,6367734,Female,True,Commercial associate,Higher education,Married,House / apartment,HR staff,180000.0
+118714,5416528,Male,True,State servant,Higher education,Married,House / apartment,Core staff,585000.0
+118794,6390801,Male,True,Working,Higher education,Married,House / apartment,IT staff,225000.0
+118866,6391076,Female,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,247500.0
+119008,5807120,Female,True,Working,Higher education,Married,House / apartment,Medicine staff,135000.0
+119250,6391189,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,High skill tech staff,225000.0
+119309,5907329,Female,True,Working,Secondary / secondary special,Separated,House / apartment,Sales staff,202500.0
+119400,6575105,Male,True,Working,Incomplete higher,Married,House / apartment,Security staff,225000.0
+119453,6415310,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,193500.0
+119454,5148837,Female,True,Working,Higher education,Married,House / apartment,Sales staff,135000.0
+119601,6008874,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,135000.0
+119616,6090897,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Core staff,270000.0
+119804,6046453,Female,True,Working,Higher education,Married,House / apartment,Core staff,112500.0
+120150,6233304,Female,True,Working,Secondary / secondary special,Married,House / apartment,Cleaning staff,90000.0
+120171,5823884,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,225000.0
+120245,5354234,Female,True,State servant,Higher education,Single / not married,House / apartment,High skill tech staff,135000.0
+120282,6658126,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,315000.0
+120436,6670540,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,High skill tech staff,180000.0
+120606,5405500,Female,True,Working,Higher education,Civil marriage,House / apartment,High skill tech staff,225000.0
+120831,6261583,Male,True,Working,Secondary / secondary special,Civil marriage,With parents,Core staff,157500.0
+121029,5415619,Female,True,Commercial associate,Higher education,Separated,Municipal apartment,Sales staff,225000.0
+121141,6233389,Male,True,State servant,Higher education,Married,Office apartment,HR staff,450000.0
+121198,6158863,Female,True,Working,Higher education,Married,With parents,Core staff,270000.0
+121268,5279189,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,288000.0
+121308,6590800,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,270000.0
+121370,5760925,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,202500.0
+121500,5759661,Female,True,Working,Secondary / secondary special,Separated,House / apartment,Sales staff,225000.0
+121769,6742143,Female,True,State servant,Higher education,Married,House / apartment,Core staff,157500.0
+121856,6090885,Male,True,Commercial associate,Higher education,Single / not married,House / apartment,Core staff,270000.0
+121902,5788665,Female,True,Working,Higher education,Married,House / apartment,Core staff,225000.0
+122878,6297588,Male,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,157500.0
+122942,6602540,Male,True,Working,Incomplete higher,Married,House / apartment,Core staff,157500.0
+123113,5178385,Female,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Medicine staff,202500.0
+123236,6394589,Male,True,Working,Higher education,Single / not married,House / apartment,Core staff,252000.0
+123253,5833717,Female,True,Working,Higher education,Married,House / apartment,Core staff,360000.0
+123462,5943135,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Cooking staff,112500.0
+123537,5791852,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,315000.0
+123586,6519714,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,90000.0
+123632,6261588,Male,True,Working,Secondary / secondary special,Civil marriage,With parents,Core staff,157500.0
+123722,6107607,Female,True,Working,Higher education,Married,House / apartment,Core staff,360000.0
+123726,5009075,Female,True,State servant,Higher education,Married,House / apartment,Core staff,450000.0
+123827,6472782,Male,True,Working,Higher education,Married,House / apartment,Core staff,247500.0
+123946,5743400,Male,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+124070,6519150,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,157500.0
+124135,5841131,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,225000.0
+124198,5580281,Female,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,157500.0
+124254,6741695,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,180000.0
+124338,6728116,Female,True,Working,Higher education,Married,House / apartment,Medicine staff,202500.0
+124348,6223664,Male,True,Working,Higher education,Civil marriage,House / apartment,High skill tech staff,202500.0
+124355,5680270,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Medicine staff,159300.0
+124441,6242320,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,540000.0
+124451,5952008,Male,True,Working,Higher education,Married,House / apartment,High skill tech staff,202500.0
+124497,6590799,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,270000.0
+124664,5178512,Female,True,State servant,Higher education,Married,House / apartment,Core staff,180000.0
+124857,5010871,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,450000.0
+124879,5465271,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,180000.0
+124883,5679835,Female,True,Working,Higher education,Married,House / apartment,HR staff,175500.0
+124985,6763818,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,144000.0
+125077,6233299,Female,True,Working,Secondary / secondary special,Married,House / apartment,Cleaning staff,90000.0
+125227,5197683,Male,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,337500.0
+125289,5068175,Female,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+125602,5474423,Male,True,Working,Secondary / secondary special,Civil marriage,Rented apartment,Sales staff,225000.0
+125703,6498293,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,247500.0
+125791,6783376,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Medicine staff,225000.0
+125827,6471948,Male,True,Commercial associate,Incomplete higher,Married,House / apartment,Core staff,157500.0
+125872,5702128,Male,True,Commercial associate,Higher education,Married,House / apartment,Core staff,450000.0
+125988,6263697,Female,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Sales staff,450000.0
+126154,6234860,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,301500.0
+126554,6763823,Female,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,144000.0
+126566,6686006,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,202500.0
+126667,6249105,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,270000.0
+126704,5918577,Female,True,Working,Higher education,Married,With parents,Core staff,135000.0
+126792,7738588,Male,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,315000.0
+126848,5866908,Female,True,Working,Secondary / secondary special,Married,House / apartment,Core staff,292500.0
+126868,6099507,Female,True,Working,Secondary / secondary special,Married,House / apartment,Cleaning staff,112500.0
+127335,5853865,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Core staff,180000.0
+127523,6630458,Female,True,State servant,Higher education,Single / not married,House / apartment,Core staff,247500.0
+127673,6661344,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,157500.0
+127857,5883709,Female,True,Working,Higher education,Single / not married,House / apartment,Sales staff,180000.0
+128105,5125182,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,112500.0
+128179,5929096,Female,True,Commercial associate,Higher education,Single / not married,House / apartment,Sales staff,315000.0
+128214,5993436,Male,True,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,Core staff,157500.0
+128286,5996440,Female,True,State servant,Higher education,Married,House / apartment,Core staff,337500.0
+128348,6758751,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Medicine staff,76500.0
+128407,5336421,Male,True,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,202500.0
+128531,6241389,Female,True,Working,Higher education,Married,House / apartment,Core staff,180000.0
+128552,5178676,Female,True,Working,Higher education,Married,House / apartment,Sales staff,180000.0
+128567,6690184,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,112500.0
+128665,5971962,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,225000.0
+128712,5061698,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,High skill tech staff,135000.0
+129056,6291744,Female,True,State servant,Higher education,Married,House / apartment,Core staff,135000.0
+129261,6033491,Male,True,Working,Higher education,Civil marriage,House / apartment,High skill tech staff,270000.0
+129380,5837797,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,112500.0
+129396,6507866,Male,True,Commercial associate,Higher education,Married,House / apartment,Sales staff,247500.0
+129557,5919041,Female,True,Working,Secondary / secondary special,Widow,House / apartment,High skill tech staff,180000.0
+129635,7788891,Female,True,Commercial associate,Higher education,Married,House / apartment,Core staff,337500.0
+129693,6223659,Male,True,Working,Higher education,Civil marriage,House / apartment,High skill tech staff,202500.0
+130047,6415878,Female,True,Commercial associate,Higher education,Civil marriage,House / apartment,Core staff,256500.0
+130050,6259067,Female,True,Working,Higher education,Married,House / apartment,High skill tech staff,94500.0
+130153,6053721,Male,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Sales staff,270000.0
+130182,6242322,Female,True,Working,Secondary / secondary special,Single / not married,House / apartment,Sales staff,540000.0
+130267,6507955,Male,True,Working,Secondary / secondary special,Married,House / apartment,Security staff,225000.0
+130481,5010516,Male,True,Working,Secondary / secondary special,Married,House / apartment,Sales staff,112500.0
+130590,6192654,Male,True,State servant,Secondary / secondary special,Married,House / apartment,Core staff,180000.0
+130630,6297585,Male,True,Working,Secondary / secondary special,Married,House / apartment,High skill tech staff,157500.0
+130772,5907171,Female,True,State servant,Secondary / secondary special,Married,House / apartment,Medicine staff,360000.0
+130864,6480096,Male,True,Commercial associate,Higher education,Married,House / apartment,High skill tech staff,292500.0
+130970,5542468,Female,True,Working,Secondary / secondary special,Civil marriage,House / apartment,Sales staff,100350.0
+131312,5994022,Female,True,Working,Higher education,Married,House / apartment,Core staff,117000.0
+131380,6007095,Female,True,Commercial associate,Secondary / secondary special,Married,House / apartment,Waiters/barmen staff,202500.0
+131412,6046953,Male,True,State servant,Higher education,Single / not married,House / apartment,Core staff,450000.0
+131439,6484818,Male,True,Working,Higher education,Married,House / apartment,Sales staff,315000.0
+131470,5883006,Female,True,State servant,Higher education,Single / not married,House / apartment,Medicine staff,157500.0
+131481,6728550,Female,True,Working,Incomplete higher,Civil marriage,House / apartment,Core staff,157500.0
+131555,6234604,Female,True,Working,Secondary / secondary special,Married,Office apartment,Sales staff,171000.0
